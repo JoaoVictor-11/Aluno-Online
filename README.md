@@ -166,15 +166,6 @@ Os testes foram realizados no **Insomnia**, validando:
 - atualização de dados
 - exclusão de registros
 
-### Prints das requisições
-> Inserir aqui os prints do Insomnia com:
-- criação de aluno
-- criação de professor
-- busca por ID
-- listagem geral
-- atualização
-- exclusão
-
 ---
 
 ## 8. Conferência no DBeaver
@@ -183,8 +174,10 @@ O banco foi validado no **DBeaver**, confirmando a persistência correta dos dad
 
 ### Prints das tabelas
 > Inserir aqui os prints do DBeaver mostrando:
-- tabela `aluno`
-- tabela `professor`
+- tabela `aluno`<img width="2560" height="1080" alt="Captura de Tela (51)" src="https://github.com/user-attachments/assets/e925d2af-a8fb-44f3-963d-d5adb076f951" />
+- tabela `professor`<img width="2561" height="1080" alt="Captura de Tela (52)" src="https://github.com/user-attachments/assets/e5d08582-97f9-4450-b6ab-2303b0bf2172" />
+
+
 - registros utilizados nos testes
 
 ---
