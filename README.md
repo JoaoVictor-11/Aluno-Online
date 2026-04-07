@@ -136,18 +136,23 @@ Os dados de teste foram inseridos para validação dos endpoints no Insomnia e c
 
 #### Criar professor
 `POST /professores`
+<img width="2556" height="1080" alt="Captura de Tela (53)" src="https://github.com/user-attachments/assets/e67cee9c-ea4c-4908-88d3-a0c3952b1a44" />
 
 #### Listar professores
 `GET /professores`
+<img width="2564" height="1080" alt="Captura de Tela (55)" src="https://github.com/user-attachments/assets/f54e44c7-6f40-457d-baa1-159c723e305b" />
 
 #### Buscar professor por ID
 `GET /professores/{id}`
+<img width="2561" height="1080" alt="Captura de Tela (54)" src="https://github.com/user-attachments/assets/2104988c-1869-40fd-8a1f-8729cc101418" />
 
 #### Atualizar professor
 `PUT /professores/{id}`
+<img width="2565" height="1080" alt="Captura de Tela (57)" src="https://github.com/user-attachments/assets/c8244544-33fd-43aa-90c5-55a4386ca23d" />
 
 #### Excluir professor
 `DELETE /professores/{id}`
+<img width="2561" height="1080" alt="Captura de Tela (56)" src="https://github.com/user-attachments/assets/5118f3ae-3621-45a4-9da7-30122b26dc75" />
 
 ---
 
